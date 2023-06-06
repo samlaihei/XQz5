@@ -1,7 +1,7 @@
 # XQz5
  Sample of the brightest quasars between 4.5 < z < 5.3. The reduced and flux-calibrated spectra are 
- made available in this repository, alongside XQz5_properties.fits, which is a file that outlines
- the redshifts and measured MgII line properties of QSOs in the sample.
+ made available in this repository, alongside XQz5_properties.fits, which is a file that contains
+ the spectroscopic redshifts and measured MgII line properties of QSOs in the sample.
  
  For the spectral data fits files, there are only three columns:
 
