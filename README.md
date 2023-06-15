@@ -8,3 +8,7 @@
 - Wavelength: observed frame wavelength in units of angstroms
 - Flux: observed frame flux in units of erg/s/cm2/angstrom
 - eFlux: observed frame flux standard deviation error in the same units as the Flux column 
+
+## Cite this
+
+The preferred citation is coming soon.
