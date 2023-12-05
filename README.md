@@ -13,7 +13,7 @@
 
 The preferred citation is the following:
 
-> @ARTICLE{Lai_XQz5, \
+> @ARTICLE{2024MNRAS.527.3912L, \
 >        author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and {Bian}, Fuyan and {Fan}, Xiaohui}, \
 >         title = "{XQz5: a new wultraluminous z   5 quasar legacy sample}", \
 >      journal = {\mnras}, \
