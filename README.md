@@ -11,4 +11,22 @@
 
 ## Cite this
 
-The preferred citation is coming soon.
+The preferred citation is the following:
+
+> @ARTICLE{Lai_XQz5, \
+>        author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and {Bian}, Fuyan and {Fan}, Xiaohui}, \
+>         title = "{XQz5: a new wultraluminous z   5 quasar legacy sample}", \
+>      journal = {\mnras}, \
+>     keywords = {galaxies: active, galaxies: high-redshift, quasars: emission lines, Astrophysics - Astrophysics of Galaxies}, \
+>         year = 2024, \
+>        month = jan, \
+>       volume = {527}, \
+>       number = {2}, \
+>        pages = {3912-3931}, \
+>          doi = {10.1093/mnras/stad3474}, \
+> archivePrefix = {arXiv}, \
+>        eprint = {2311.05098}, \
+> primaryClass = {astro-ph.GA}, \
+>       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3912L}, \
+>      adsnote = {Provided by the SAO/NASA Astrophysics Data System} \
+> }
