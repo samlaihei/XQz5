@@ -13,9 +13,9 @@
 
 The preferred citation is the following:
 
-> @ARTICLE{2024MNRAS.527.3912L, \
->        author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and {Bian}, Fuyan and {Fan}, Xiaohui}, \
->         title = "{XQz5: a new wultraluminous z   5 quasar legacy sample}", \
+> @ARTICLE{2024MNRAS.527.3912L,
+>       author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and {Bian}, Fuyan and {Fan}, Xiaohui}, \
+>        title = "{XQz5: a new ultraluminous z {\ensuremath{\sim}} 5 quasar legacy sample}", \
 >      journal = {\mnras}, \
 >     keywords = {galaxies: active, galaxies: high-redshift, quasars: emission lines, Astrophysics - Astrophysics of Galaxies}, \
 >         year = 2024, \
@@ -25,8 +25,9 @@ The preferred citation is the following:
 >        pages = {3912-3931}, \
 >          doi = {10.1093/mnras/stad3474}, \
 > archivePrefix = {arXiv}, \
->        eprint = {2311.05098}, \
+>       eprint = {2311.05098}, \
 > primaryClass = {astro-ph.GA}, \
->       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3912L}, \
+>       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3912L }, \
 >      adsnote = {Provided by the SAO/NASA Astrophysics Data System} \
 > }
+
